@@ -48,7 +48,7 @@ The following versions are confirmed from brand assets:
 
 | Color | Name | Hex | Use |
 |---|---|---|---|
-| Brand Orange | Brand Orange | `#FFA500` | Primary accent — icon, highlights, CTAs, energy. Approx — confirm from source. |
+| Brand Orange | Brand Orange | `#F69820` | Primary accent — icon, highlights, CTAs, energy |
 | Near Black | Brand Black | `#1A1A1A` | Primary text, bold wordmark, icon outline |
 
 ### Secondary Colors
@@ -69,28 +69,30 @@ The following versions are confirmed from brand assets:
 - **Gray** is the support layer — it softens without disappearing. Secondary information, descriptors, and labels.
 - **White** is the breathing room — the system should never feel cluttered.
 
-*(Note: Confirm exact hex values from original source files. The above values are extracted from logo assets and may need minor adjustment.)*
+*(Orange confirmed from source file. Black and gray values are extracted from logo assets — confirm from source if precision is needed.)*
 
 ---
 
 ## Typography
 
-### Primary Font — LESARUSS Wordmark
-- **Identified as:** Condensed ultra bold sans-serif (likely **Montserrat Black** or **Anton** — confirm from source)
-- **Weight:** Black / ExtraBold (900)
+### Primary Font — "LESARUSS" Wordmark
+- **Font:** Montserrat ExtraBold
+- **Weight:** 800
 - **Style:** All caps, zero letter-spacing
-- **Use:** Headlines, primary display text, brand name
+- **Use:** Headlines, primary display text, brand name, high-impact callouts
 
-### Secondary Font — "PROJECT" / Body
-- **Identified as:** Light/thin weight of the same sans-serif family
-- **Weight:** Light (300) or Regular (400) with wide letter-spacing applied
-- **Use:** Subheadings, labels, supporting text, section titles
-- **Letter-spacing:** Wide (+2 to +4 tracking)
+### Secondary Font — "PROJECT" / Supporting Text
+- **Font:** Montserrat ExtraLight
+- **Weight:** 200
+- **Style:** All caps or sentence case, wide letter-spacing applied
+- **Use:** Subheadings, labels, supporting text, section titles, descriptors
 
 ### Type Pairing Logic
-The pairing works because it uses **weight contrast within a single family** — not two different typefaces. The heavy wordmark commands attention; the light label recedes and supports. Apply this same logic across all brand materials: lead with bold, support with light.
+Both fonts are Montserrat — the pairing works entirely through **weight contrast within a single family**. ExtraBold (800) commands attention and authority. ExtraLight (200) recedes and supports without disappearing. The gap between 800 and 200 is intentional — anything in between would reduce the contrast and weaken the pairing.
 
-*(Note: Confirm exact font names from source files or brand designer. If using Google Fonts, Montserrat provides both weights and is free.)*
+Apply this logic across all brand materials: lead with ExtraBold, support with ExtraLight. Do not introduce a second typeface.
+
+**Google Fonts:** Montserrat is available free at fonts.google.com. Select weights 200 (ExtraLight) and 800 (ExtraBold).
 
 ---
 
@@ -118,4 +120,4 @@ The system should feel organized and open — not packed. White space is not emp
 
 ---
 
-*Last updated: Visual identity extracted from logo assets. Confirm hex codes and font names from source files before finalizing.*
+*Last updated: Orange `#F69820` confirmed from source file. Fonts confirmed as Montserrat ExtraBold (800) and Montserrat ExtraLight (200).*
