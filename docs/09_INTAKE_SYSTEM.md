@@ -228,7 +228,13 @@ Throughout this document, the following shorthand is used to indicate how each s
 
 ---
 
-**Door 2 closes when:** All sections are complete and submitted (or operator session is concluded for GDD, or LESARUSS team interview is complete for DFY). System gap report is generated. Blueprint build begins. Client is routed to Door 3.
+**Door 2 closes when:** All sections are complete and submitted (or operator session is concluded for GDD, or LESARUSS team interview is complete for DFY). System gap report is generated.
+
+**For Tier 2 and Tier 3 clients:** The Blueprint Score is calculated and delivered before the build begins. See `10_BLUEPRINT_SCORE.md` for the full rubric. The score determines where the blueprint build starts and what gets prioritized first. It also serves as the baseline for re-scoring every 90 days.
+
+**For Tier 1 clients:** No Blueprint Score is issued. The self-rating from Section 5 serves as the client's personal baseline.
+
+Blueprint build begins. Client is routed to Door 3.
 
 ---
 
