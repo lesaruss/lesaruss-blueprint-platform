@@ -1,35 +1,112 @@
 # Community and Client Experience System
-
-## Member Journey
-1. **Awareness**: Members become aware of the community through various channels such as social media, word-of-mouth, or events.
-2. **Consideration**: Potential members research and consider joining the community, assessing its value and alignment with their needs.
-3. **Sign-Up**: Members officially join the community through a streamlined registration process.
-4. **Onboarding**: New members receive a welcome kit, introductory resources, and access to orientation sessions.
-5. **Engagement**: Members participate in various activities such as forums, events, and collaborative projects.
-6. **Feedback Loop**: Members provide feedback on their experiences, which is used to improve the community.
-7. **Renewal**: Members reassess their involvement and decide whether to continue their participation, generating opportunities for retention efforts.
-
-## Onboarding
-- **Welcome Email**: Automated email that includes links to resources and a brief community overview.
-- **Orientation Webinar**: Regularly scheduled webinars for new members to learn about community tools and meet existing members.
-- **Mentorship Program**: Pairing new members with experienced members for guidance and support during their initial engagement.
-
-## Community Structure
-- **Core Team**: Responsible for community management, overseeing activities, and ensuring member satisfaction.
-- **Subcommittees**: Specialized groups focused on specific areas of interest or projects.
-- **General Membership**: Includes all members who participate in community activities.
-
-## Engagement System
-- **Community Events**: Regular events to promote networking and knowledge sharing, such as workshops, panels, and social gatherings.
-- **Online Platforms**: Utilization of forums, social media, and messaging apps for continuous interaction among members.
-- **Content Creation**: Encouraging members to contribute articles, blog posts, or videos to the community.
-
-## Retention Drivers
-- **Recognition Programs**: Acknowledging member contributions through awards, shout-outs, or featured stories.
-- **Feedback Surveys**: Regular surveys to assess member satisfaction and needs, allowing for targeted improvements.
-- **Exclusive Content**: Providing value through members-only resources, courses, and events.
+*Version 1.0 — Initial draft. This document is a living system and will be updated as the platform evolves.*
 
 ---
 
-### Conclusion
-Creating a robust community and client experience system involves a clear understanding of the member journey, effective onboarding practices, structured community roles, and strategies for engagement and retention. By investing in these areas, we can foster a thriving community that meets the needs of its members.
+## Overview
+The LESARUSS community is not a bonus feature. It is a core system component. The community is where collective intelligence is generated — where every operator's experience, question, win, and gap becomes input that improves the system for everyone else. A strong community makes the platform smarter. A weak community makes every operator an island.
+
+The client experience is designed to make operators feel like they are part of something that is continuously getting better — because they are.
+
+---
+
+## The Member Journey
+
+### Stage 1 — Discovery
+Operator encounters LESARUSS content and recognizes the gap between what they have (a strategy, a vibe, a plan) and what they need (a system). This stage ends when they take action — clicking a link, joining a list, or entering Door 1.
+
+### Stage 2 — Entry (Door 1)
+Operator enters through the front door. They complete the initial intake. Their tier is confirmed. They are welcomed into the system. This is a critical moment — the first impression of the experience should feel organized, intentional, and like a real operating system, not a generic funnel.
+
+**Experience design goals at entry:**
+- Clear next steps (no confusion about what to do after signing up)
+- Immediate value (something useful delivered before they have to ask)
+- A sense of belonging to something larger than a single transaction
+
+### Stage 3 — Build (Doors 2–3)
+Operator moves through the audit and blueprint build. This is where the most meaningful work happens. The experience here is determined by tier:
+- DIY operators move through self-guided documentation and templates
+- Guided operators are accompanied by a LESARUSS operator through the process
+- DIFY clients receive white-glove handling with minimal labor on their end
+
+**Experience design goals during build:**
+- Momentum — each door feels like progress, not a wall
+- Clarity — the client knows exactly where they are in the process
+- Competence — by the time the blueprint is done, they understand the system they are running
+
+### Stage 4 — Activation (Door 4)
+The system goes live. Operator is running. This stage is about establishing rhythm and reinforcing that the system works. Early wins during activation are critical for retention and upgrade conversion.
+
+**Experience design goals at activation:**
+- Quick wins (what can they see working in week 1?)
+- Accountability (are they actually running the system, or did it sit on a shelf?)
+- Community connection (are they sharing, asking questions, contributing?)
+
+### Stage 5 — Evolution (Door 5 and beyond)
+New system versions are released. Operators are notified, guided, or upgraded depending on their tier. The experience of receiving an upgrade should feel like a genuine improvement to their business — not a changelog they ignore.
+
+**Experience design goals at evolution:**
+- Communicating what changed and why it matters to *them*
+- Making the upgrade process feel like progress, not maintenance
+- Using version releases as a community moment — celebrating the collective input that made the new version possible
+
+---
+
+## Community Structure
+
+### The Collective
+All LESARUSS operators — across all tiers — are part of the same ecosystem. The community is the living proof that the system compounds in value. Every person in it is both a user and a contributor.
+
+### Tiers Within the Community
+While all operators are in the same community, access and interaction levels vary by tier:
+- **DIY members** have access to the community forum, version updates, and peer support
+- **Guided members** have access to group sessions and direct operator interaction
+- **DIFY clients** have dedicated touchpoints with the LESARUSS team in addition to community access
+
+### Certified Operators
+Certified operators are a special class within the community. They have demonstrated mastery of the system and are eligible to guide others. They are recognized publicly as operators, creating visibility and professional credibility within the ecosystem.
+
+---
+
+## Onboarding Experience
+The onboarding experience begins the moment Door 1 is submitted and ends when the operator has completed their first full activation cycle.
+
+**Onboarding checkpoints:**
+1. Welcome confirmation with clear next steps and what to expect
+2. Access to all relevant tier materials delivered immediately
+3. Introduction to the community — where it lives, how to use it
+4. First guided touchpoint (for Guided and DIFY tiers) scheduled within 48 hours of intake
+5. Blueprint delivery or build start within the committed timeline
+6. Post-activation check-in to confirm the system is running
+
+---
+
+## Retention Drivers
+
+**1. Version Updates**
+The release of a new LESARUSS system version is the single strongest retention tool. Every update signals to users that their investment is compounding — the system they paid for is getting better without them having to start over.
+
+**2. Collective Recognition**
+Publicly recognizing operator wins, system milestones, and community contributions creates belonging and social proof simultaneously. When operators see others succeeding inside the system, they stay — and they upgrade.
+
+**3. The Certification Path**
+Giving community members a meaningful way to go deeper — not just use the system but master and teach it — creates a high-commitment engagement layer that retains the most motivated operators and turns them into advocates.
+
+**4. Peer Community**
+Operators at similar stages and in complementary industries supporting each other inside the platform creates organic value that LESARUSS does not have to produce directly. The community generates its own reasons to stay.
+
+---
+
+## Feedback System
+Every client's experience is an input. Feedback is collected at:
+- End of each door (brief structured reflection)
+- Post-blueprint delivery
+- Post-activation (30-day check-in)
+- Quarterly (ongoing users)
+- Version release (what worked, what was unclear, what's missing)
+
+All feedback is aggregated and reviewed before each new system version is built. This is how the collective intelligence actually flows back into the platform.
+
+---
+
+*Last updated: Early draft — foundational rewrite. All sections subject to revision as the system matures.*
