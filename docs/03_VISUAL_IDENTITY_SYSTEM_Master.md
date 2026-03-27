@@ -13,12 +13,25 @@ The LESARUSS logo combines a light bulb and a microphone into a single icon — 
 **"PROJECT"** is set in a light/thin weight of the same sans-serif family with wide letter-spacing — creating visual contrast and balance without introducing a second typeface.
 
 ### Logo Versions
-Three horizontal lockup versions exist (confirmed from brand assets):
-1. **Primary** — Full color. Orange bulb, black wordmark, gray "PROJECT." Use on white or light backgrounds.
-2. **Secondary** — Same as primary, alternate size/weight rendering for different size contexts.
-3. **Compact** — Tighter lockup for smaller applications (headers, footers, thumbnails).
+The following versions are confirmed from brand assets:
 
-*(Note: Additional versions — reversed/white, icon-only, stacked — should be created from source files for full flexibility.)*
+**Horizontal Lockup (Light Background)**
+1. **Primary** — Full color. Orange bulb with black outline details, black "LESARUSS" wordmark, gray "PROJECT." Use on white or light backgrounds.
+2. **Secondary** — Same as primary at a slightly different size rendering.
+3. **Compact** — Tighter horizontal lockup for smaller applications (headers, footers, thumbnails).
+
+**Reversed / White Wordmark (Dark Background)**
+4. **Full Reversed** — Orange icon + white wordmark. For use on black, dark, or brand-color backgrounds. (Confirmed from assets — wordmark is fully white in this version.)
+5. **Compact Reversed** — Smaller reversed lockup.
+
+**Icon Only**
+6. **Icon Large** — Bulb + mic mark only, no wordmark. Orange with black details. Use for profile images, favicons, stickers, and applications below 120px.
+7. **Icon Small** — Same mark at reduced size.
+
+**Versions still to create (recommended):**
+- Stacked lockup (icon above wordmark, for square formats)
+- All-black single-color version (for embroidery, stamps, single-color print)
+- All-white single-color version (for dark print applications)
 
 ### Logo Usage Rules
 - Do not alter the proportions between the icon and the wordmark
@@ -35,7 +48,7 @@ Three horizontal lockup versions exist (confirmed from brand assets):
 
 | Color | Name | Hex | Use |
 |---|---|---|---|
-| Amber Gold | Brand Orange | `#F9A825` | Primary accent — icon, highlights, CTAs, energy |
+| Brand Orange | Brand Orange | `#FFA500` | Primary accent — icon, highlights, CTAs, energy. Approx — confirm from source. |
 | Near Black | Brand Black | `#1A1A1A` | Primary text, bold wordmark, icon outline |
 
 ### Secondary Colors
@@ -45,8 +58,13 @@ Three horizontal lockup versions exist (confirmed from brand assets):
 | Medium Gray | Brand Gray | `#555555` | Secondary text, "PROJECT" wordmark, body copy |
 | White | Background | `#FFFFFF` | Primary background, negative space |
 
+### Icon Color Behavior by Version
+- **Light background versions** — Orange bulb outline + orange fill + black interior details (mic, filament)
+- **Dark background versions** — Orange icon unchanged, wordmark switches to white
+- The orange never changes across versions. It is the fixed anchor of the mark.
+
 ### Color Logic
-- **Amber Gold** is the energy of the brand — it signals action, attention, and value. Use it where you want eyes to go.
+- **Brand Orange** is the energy of the brand — it signals action, attention, and value. Use it where you want eyes to go.
 - **Near Black** is the authority of the brand — weight, clarity, confidence. Primary text and structure.
 - **Gray** is the support layer — it softens without disappearing. Secondary information, descriptors, and labels.
 - **White** is the breathing room — the system should never feel cluttered.
